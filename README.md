@@ -4,10 +4,10 @@ A simple automation bot that plays the Chrome Dino Game automatically using pyau
 The bot is controlled using a clean Gradio UI with Start and Stop buttons.
 
 Features:-
-•Simple Gradio-based UI
-•Automatic obstacle detection using pixel color
-•Simulates space key press to jump
-•Uses threading for smooth execution
+ •Simple Gradio-based UI
+ •Automatic obstacle detection using pixel color
+ •Simulates space key press to jump
+ •Uses threading for smooth execution
 
 Requirements:-
 Make sure Python is installed (Python 3.8+ recommended).
@@ -44,7 +44,7 @@ Use pyautogui.position() to find the correct screen coordinates.
 Make sure the Dino game window is visible and not minimized.
 
 Technologies Used:-
-•Python
-•PyAutoGUI
-•Gradio
-•Threading
+ •Python
+ •PyAutoGUI
+ •Gradio
+ •Threading
